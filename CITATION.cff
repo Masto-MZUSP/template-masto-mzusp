@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se usar este material, por favor cite-o como abaixo."
+title: "[Título do Projeto]"
+type: software  #use "dataset" para repositórios de dados
+authors:
+- family-names: "[Sobrenome]"
+  given-names: "[Nome]"
+  affiliation: "Museu de Zoologia da Universidade de São Paulo"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Prado"
+  given-names: "Joyce Rodrigues do"
+  affiliation: "Museu de Zoologia da Universidade de São Paulo"
+  orcid: "https://orcid.org/0000-0002-2025-5479"
+repository-code: "https://github.com/Masto-MZUSP/[nome-do-repositorio]"
+license: MIT
+keywords:
+  - Mastozoologia
+  - "[palavra-chave]"
+# Depois do primeiro release no Zenodo, descomente e preencha:
+# doi: "10.5281/zenodo.[número]"
+# version: "1.0.0"
+# date-released: "AAAA-MM-DD"
